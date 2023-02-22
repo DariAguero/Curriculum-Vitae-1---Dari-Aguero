@@ -390,5 +390,11 @@ transform: translateX(-50%);
     .contacto .contenido-seccion .fila{
         display: block;
     }
+    
+    .contacto .contenido-seccion .fila .col{
+        width: 80%;
+        margin: auto;
+        margin-top: 20px;
+    }
 }
 
