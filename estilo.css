@@ -334,11 +334,13 @@ transform: translateX(-50%);
 
 .contacto .contenido-seccion .fila{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .contacto .contenido-seccion .fila .col {
     margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .contacto .contenido-seccion .fila .col h2{
