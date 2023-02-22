@@ -107,9 +107,9 @@ html{
 }
 
 .inicio .contenido-seccion .info .redes a:hover{
-    color:#fff;
+    color:antiquewhite;
     background-color: chocolate;
-    box-shadow: 0 0 20px #fff;
+    box-shadow: 0 0 20px antiquewhite;
 }
 
 .inicio .contenido-seccion .foto{
