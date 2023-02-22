@@ -389,6 +389,8 @@ transform: translateX(-50%);
 
     .contacto .contenido-seccion .fila{
         display: block;
+        text-align: center;
+        margin: auto;
     }
 }
 
