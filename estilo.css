@@ -345,11 +345,11 @@ transform: translateX(-50%);
     color: chocolate;
 }
 
-.contacto .contenido-seccion .fila .col p{
+.contacto .contenido-seccion .fila .col h4{
     color: antiquewhite
     display: block;
     text-align: center;
-    font-size: small;
+    font-size: smaller;
 }
 
 @media screen and (max-width: 800px){
