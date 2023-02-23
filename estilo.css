@@ -345,7 +345,7 @@ transform: translateX(-50%);
     color: chocolate;
 }
 
-.contacto .contenido-seccion .fila .col span{
+.contacto .contenido-seccion .fila .col p{
     color: antiquewhite
     display: block;
     text-align: center;
