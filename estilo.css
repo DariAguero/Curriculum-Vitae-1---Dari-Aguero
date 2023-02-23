@@ -345,6 +345,13 @@ transform: translateX(-50%);
     color: chocolate;
 }
 
+.contacto .contenido-seccion .fila .col span{
+    color: antiquewhite
+    display: block;
+    text-align: center;
+    font-size: small;
+}
+
 @media screen and (max-width: 800px){
     .habilidades .contenido-seccion .fila{
         display: block;
